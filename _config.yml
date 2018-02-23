@@ -55,7 +55,7 @@ creative-commons:
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-theme: minima
+theme: jekyll-theme-midnight
 highlighter: rouge
 sass:
   sass_dir: _sass

@@ -3,22 +3,22 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Associate Professor of English, North Carolina State University
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2002 - 2009`
+__University of Virginia__
+PhD in English Language and Literature
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`1994 - 1998`
+__Wake Forest University__
+BA in English with honors, pre-med
 
 ## Awards
 
 `2012`
-Name of Award, Organization 
+Name of Award, Organization
 
 ## Publications
 
@@ -50,13 +50,13 @@ Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Lin
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Current Job Title__, Current Employer
 
 - Task
 - Task
 
 `1994-1996`
-__Current Job Title__, Current Employer 
+__Current Job Title__, Current Employer
 
 - Task
 - Task
@@ -66,5 +66,3 @@ __Current Job Title__, Current Employer
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-

@@ -1,20 +1,20 @@
 # Site wide configuration
 
-title: Site Title
+title: Paul Fyfe
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  name: Paul Fyfe
+  avatar: crdm.100x100.head.jpg
+  bio: "Associate Professor at NC State University, Raleigh, NC."
+  email: paul.fyfe@ncsu.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
+  twitter: pfyfe
   linkedin: #username
-  github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  github: pfyfe
+  orcid: 0000-0001-9481-0730
   researchgate: #username
   mendeley: #username
   google:
